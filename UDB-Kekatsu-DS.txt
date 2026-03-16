@@ -1,3 +1,3 @@
 1
 	
-ClassiCube	nds	ANY	3.2	Apache Thunder	https://cdn.classicube.net/client/latest/ClassiCube.nds	ClassiCube.nds	4556042	https://db.universal-team.net/assets/images/images/ntr-launcher.png
+YouTubeDS	nds	ANY	3.2	Apache Thunder	https://github.com/CubeFun/repo/raw/refs/heads/main/YoutubeDS.nds	YouTubeDS.nds	4556042	https://db.universal-team.net/assets/images/images/ntr-launcher.png

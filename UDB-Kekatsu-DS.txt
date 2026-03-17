@@ -1,3 +1,3 @@
 1
 	
-videotest	nds	ANY	3.2	Apache Thunder	https://github.com/CubeFun/repo/raw/refs/heads/main/test.mp4	test.mp4	4556042	https://db.universal-team.net/assets/images/images/ntr-launcher.png
+videotest	nds	ANY	3.2	Apache Thunder	http://192.168.1.203:8000/test.mp4	test.mp4	4556042	https://db.universal-team.net/assets/images/images/ntr-launcher.png

@@ -1,6 +1,6 @@
 1
 ,
-Electroplankton,nds,PAL,1.0,Nintendo,https://github.com/CubeFun/repo/raw/refs/heads/main/0001%20-%20Electroplankton%20(Japan).nds,0001 - Electroplankton (Japan).nds,16777216,https://art.gametdb.com/ds/box/EN/ATIP.png
+Electroplankton,nds,PAL,1.0,Nintendo,http://192.168.1.204:8080/0001%20-%20Electroplankton%20%28Japan%29.nds,0001 - Electroplankton (Japan).nds,16777216,https://art.gametdb.com/ds/box/EN/ATIP.png
 Need for Speed: Underground 2,nds,PAL,1.0,Electronic Arts,http://192.168.1.204:8080/0002%20-%20Need%20for%20Speed%20-%20Underground%202%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds,0002 - Need for Speed - Underground 2 (USA) (En Fr De Es It).nds,33554432,https://art.gametdb.com/ds/box/EN/AUGP.png
 Yoshi Touch & Go,nds,PAL,1.0,Nintendo,http://192.168.1.204:8080/0003%20-%20Yoshi%20Touch%20%26%20Go%20%28USA%29.nds,0003 - Yoshi Touch & Go (USA).nds,16777216,https://art.gametdb.com/ds/box/EN/AYIP.png
 Feel the Magic: XY-XX,nds,NTSC-U,1.0,Sega,http://192.168.1.204:8080/0004%20-%20Feel%20the%20Magic%20-%20XY-XX%20%28USA%29%20%28En%2CJa%29.nds,0004 - Feel the Magic - XY-XX (USA) (En Ja).nds,33554432,https://art.gametdb.com/ds/box/US/APRE.png

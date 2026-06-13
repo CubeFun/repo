@@ -1,6 +1,6 @@
 1
 ,
 Electroplankton,nds,PAL,1.0,Nintendo,http://192.168.1.204:8000/videoplayerds.nds,0001 - Electroplankton (Japan).nds,16777216,https://art.gametdb.com/ds/box/EN/ATIP.png
-Evideo,nds,PAL,1.0,Nintendo,http://192.168.1.204:8000/output.dsv,0001 - output.dsv,16777216,https://art.gametdb.com/ds/box/EN/ATIP.png
+dsiflash,nds,PAL,1.0,Nintendo,http://192.168.1.204:8000/dsiflash.nds,0001 - dsiflash.nds,16777216,https://art.gametdb.com/ds/box/EN/ATIP.png
 Electroplankton,nds,PAL,1.0,Nintendo,http://192.168.1.204:8000/DSiStream.nds,0001 - DSiStream.nds,16777216,https://art.gametdb.com/ds/box/EN/ATIP.png
 video,nds,PAL,1.0,Nintendo,http://192.168.1.204:8000/out.dsvid,0002 - out.dsvid,16777216,https://art.gametdb.com/ds/box/EN/ATIP.png

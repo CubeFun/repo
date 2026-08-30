@@ -4,3 +4,4 @@ Electroplankton,nds,PAL,1.0,Nintendo,http://192.168.1.204:8000/videoplayerds.nds
 dsiflash,nds,PAL,1.0,Nintendo,http://192.168.1.204:8000/dsiflash.nds,0001 - dsiflash.nds,16777216,https://art.gametdb.com/ds/box/EN/ATIP.png
 Electroplankton,nds,PAL,1.0,Nintendo,http://192.168.1.204:8000/DSiStream.nds,0001 - DSiStream.nds,16777216,https://art.gametdb.com/ds/box/EN/ATIP.png
 video,nds,PAL,1.0,Nintendo,http://192.168.1.204:8000/out.dsvid,0002 - out.dsvid,16777216,https://art.gametdb.com/ds/box/EN/ATIP.png
+Bunjalloo,nds,PAL,1.0,Nintendo,http://192.168.1.204:8000/bunjalloo.nds,0002 - bunjalloo.dsvid,16777216,https://art.gametdb.com/ds/box/EN/ATIP.png
